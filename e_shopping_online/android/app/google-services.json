@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "667230187484",
+    "project_id": "e-shopping-online-3d351",
+    "storage_bucket": "e-shopping-online-3d351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667230187484:android:a7d6d784d2b565b0ea6919",
+        "android_client_info": {
+          "package_name": "com.shoppingapp.e_shopping_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667230187484-bh5uacgn05k8l8rkgh1g8ftifeqt3sm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppingapp.e_shopping_online",
+            "certificate_hash": "af6ee674f46f381bc4aaa08dcee42bf9e5082226"
+          }
+        },
+        {
+          "client_id": "667230187484-cjrdh3is2l38vahr4jgairivlkl1v0cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpHXiMfmDjHKridIRLtwVUwhY-kHY73E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667230187484-cjrdh3is2l38vahr4jgairivlkl1v0cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
